@@ -30,7 +30,7 @@ I always look for opportunities to learn, network and share ideas.
 *   🤝  I have experience with data science using python.
 
 <a href="https://www.twitter.com/Cezar_da_Rocha" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/thefacecodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  src="https://img.shields.io/twitter/follow/Cezar_da_Rocha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/1cezar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/1cezar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
