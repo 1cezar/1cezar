@@ -25,7 +25,6 @@ I always look for opportunities to learn, network and share ideas.
 
 *   🌍  I'm based in Oriximiná-PA, Brasil
 *   ✉️  You can contact me at [cezaugusto.rocha@gmail.com](mailto:cezaugusto.rocha@gmail.com)
-*   🚀  I'm currently working on [Skalena](https://www.skalena.com/)
 *   🧠  I'm working with Javascript, react and Typescript.
 *   🤝  I have experience with data science using python.
 
