@@ -23,9 +23,9 @@ Software Developer
 
 I always look for opportunities to learn, network and share ideas.
 
-*   🌍  I'm based in Oriximiná-PA, Brasil
+*   🌍  I'm based in Belém-PA, Brasil
 *   ✉️  You can contact me at [cezaugusto.rocha@gmail.com](mailto:cezaugusto.rocha@gmail.com)
-*   🧠  I'm working with Javascript, react and Typescript.
+*   🧠  I'm working with Python, Javascript, react and Typescript.
 *   🤝  I have experience with data science using python.
 
 <a href="https://www.twitter.com/Cezar_da_Rocha" target="_blank" rel="noreferrer"><img
